@@ -54,12 +54,14 @@ Data Cleaning & Transformation
 📊 Key Insights
 
 ✔️ Top-performing stores based on revenue
-✔️ Best-selling products and categories
-✔️ Customer purchase trends
-✔️ Inventory stock gaps
-✔️ Staff performance analysis
 
-(You can add screenshots here later)
+✔️ Best-selling products and categories
+
+✔️ Customer purchase trends
+
+✔️ Inventory stock gaps
+
+✔️ Staff performance analysis
 
 📈 PPT Highlights
 
