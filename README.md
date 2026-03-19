@@ -51,6 +51,23 @@ Data Modeling
 
 Data Cleaning & Transformation
 
+🧠 Key Business Questions Solved
+
+🔍 Total products sold by each store
+🔍 Cumulative sales trend over time
+🔍 Top-selling products by category
+🔍 Highest spending customers (MVP customers 💎)
+🔍 Highest-priced product per category
+🔍 Orders placed by each customer per store
+🔍 Staff members with:
+
+❌ No sales
+
+✅ Above-average performance
+
+🔍 Median pricing analysis
+🔍 Products never ordered (inventory issue 🚨)
+
 📊 Key Insights
 
 ✔️ Top-performing stores based on revenue
